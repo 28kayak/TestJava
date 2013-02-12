@@ -21,7 +21,7 @@ public class Arraydiff
 	/* Array Parameters 
 	 * when a parameter is an array, then the parameter is initialized to refer to the same array that 
 	 * the actual argument refers to. therefore, if the method changes the components of the array,
-	 * the changes do affect argument.    ‚Â‚Ü‚é‚Æ‚±‚ð‚±‚ê‚Ícall(pass)by reference? 
+	 * the changes do affect argument.    is this equal to call(pass)by reference? 
 	 */
 	
 	public static void put24s(int[] data)
